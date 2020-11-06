@@ -1,4 +1,4 @@
-<h2 align="center">Hello there, I'm GreeB</h2>
+<h2 align="center">Hello there, I'm Greblue!</h2>
 <p align="center"><b>I'm just a student that want to learn about program.</b></p>
 
 <h3 align="center">Find me on</h3>
