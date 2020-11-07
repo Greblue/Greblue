@@ -10,3 +10,4 @@
 <p align="center"> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" /></p>
 
 <br/>
+[![Greblue's GitHub Statics](https://github-readme-stats.vercel.app/api?username=Greblue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
